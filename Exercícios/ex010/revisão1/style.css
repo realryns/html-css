@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+body {
+    background-image: linear-gradient(90deg, rgb(236, 172, 172), rgb(161, 161, 236));
+    font: normal 20px Arial;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div {
+    padding: 10px;
+    border-radius: 5px;
+    width: 75px;
+    text-align: center;
+}
+
+button {
+    background-color: rgb(173, 214, 111);
+    width: 200px;
+    height: 100px;
+    border-radius: 10px;
+    
+}
