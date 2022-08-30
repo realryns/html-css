@@ -11,7 +11,7 @@ body {
 main {
     background-color: white;
     border-radius: 10px;
-    box-shadow: 5px 5px 15px #b8b6b2;
+    box-shadow: 5px 5px 15px #b8b6b2bd;
     width: 600px;
     padding: 10px;
     margin: auto;
@@ -21,7 +21,6 @@ h1 {
     color: #FE4A49;
     text-align: center;
     text-shadow: 1px 1px 2px #af3030;
-    ;
 }
 
 h2 {
